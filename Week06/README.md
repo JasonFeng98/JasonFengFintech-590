@@ -1,1 +1,1 @@
-Please follwing the code in the notbook and you can get answer close to my report
+Week 6 Project Run code in the folder Follow the step by step in the file. You can get the same output as code file show
